@@ -4,8 +4,8 @@
 class Annembed < Formula
   desc "Data embedding based on graph-based approximate nearest neighbour"
   homepage "https://github.com/jean-pierreBoth/annembed"
-  url "https://github.com/jianshu93/annembed/releases/download/v0.1.0/annembed.tar.gz"
-  sha256 "dadb05581763aeba2688a2dc0748b2e75072f5cf32274ae6686de13e03000be2"
+  url "https://github.com/jianshu93/annembed/releases/download/v0.1.0/annembed_universal.tar.gz"
+  sha256 "b8ff03a9f98a3a9066f09354cecf592643560481c67bfe28b93bedf8f585b31b"
   version "0.1.0"
 
   def install
