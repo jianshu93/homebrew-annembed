@@ -4,9 +4,9 @@
 class Annembed < Formula
   desc "Data embedding based on graph-based approximate nearest neighbour"
   homepage "https://github.com/jean-pierreBoth/annembed"
-  url "https://github.com/jianshu93/annembed/releases/download/v0.1.1/annembed_Darwin_universal_v0.1.1.tar.gz"
-  sha256 "4647269c56bddb1b7aa84ed109073ffb804930a23d5622683e213f5a1989cab1"
-  version "0.1.1"
+  url "https://github.com/jianshu93/annembed/releases/download/v0.1.2/annembed_universal_v0.1.2.tar.gz"
+  sha256 "433cafd095dc24f4aeaff10aadfe1f7f2f1af43c700e1ea8e89d156b4bf844dd"
+  version "0.1.2"
 
   def install
     bin.install "annembed"
